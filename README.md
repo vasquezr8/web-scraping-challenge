@@ -11,18 +11,17 @@ I started by scraping titles and preview text from Mars news articles using Pyth
 1. Used automated browsing to visit the Mars news site and identified elements to scrape.
 2. Created a Beautiful Soup object and extracted text elements from the website.
 3. Extracted the titles and preview text of the news articles and stored them in Python data structures.
-4. Optionally, stored the scraped data in a JSON file.
 
 ## Deliverable 2: Scrape and Analyze Mars Weather Data
 
-Next, I scraped and analyzed Mars weather data in the part_2_mars_weather.ipynb. Here's what I did:
+Next, I scraped and analyzed Mars weather data in the part_2_mars_weather.ipynb file. Here's what I did:
 
 1. Used automated browsing to visit the Mars Temperature Data Site and identified elements to scrape.
 2. Created a Beautiful Soup object and scraped the data in the HTML table.
 3. Assembled the scraped data into a Pandas DataFrame with appropriate column headings.
 4. Examined and converted data types as needed.
 5. Analyzed the dataset using Pandas functions to answer specific questions about Mars weather.
-6. Exported the DataFrame to a CSV file.
+6. Exported the DataFrame to a CSV file (mars_weather_data).
 
 ## Code Citations
 
